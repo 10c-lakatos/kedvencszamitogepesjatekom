@@ -1,5 +1,5 @@
 # 🎮 Rainbow Six Siege - A Kedvenc Számítógépes Játékom
-![Rainbow Six Siege](https://upload.wikimedia.org/wikipedia/en/6/6b/Rainbow_Six_Siege_cover_art.jpg)
+![Rainbow Six Siege](https://logowik.com/content/uploads/images/rainbow-six-siege1279.jpg)
 
 ## 📝 Leírás
 Ez egy egyszerű, de látványos React-al készült weboldal, amely bemutatja a **Tom Clancy's Rainbow Six Siege** játékot.
