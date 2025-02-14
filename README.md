@@ -24,7 +24,7 @@ Ez egy egyszerű, de látványos React-al készült weboldal, amely bemutatja a 
    ```
 4. Indítsd el a fejlesztői szervert:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## 📌 Technológiák
