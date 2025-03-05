@@ -12,7 +12,7 @@ Ez egy egyszerű, de látványos React-al készült weboldal, amely bemutatja a 
 - **Beágyazott videó bemutató** 🎥
 
 ## ‼️Tekintsd meg a weboldalt
-- **Lépj fel ide:** https://10c-lakatos-github.io/kedvencszamitogepesjatekom
+- **Lépj fel ide:** https://10c-lakatos.github.io/kedvencszamitogepesjatekom
 
 ## 📌 Technológiák
 - **React** ⚛️
