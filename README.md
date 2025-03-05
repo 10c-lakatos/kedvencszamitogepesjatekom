@@ -11,21 +11,8 @@ Ez egy egyszerű, de látványos React-al készült weboldal, amely bemutatja a 
 - **Gomb a hivatalos oldalra** 🔗
 - **Beágyazott videó bemutató** 🎥
 
-## 🛠️ Telepítés és futtatás
-1. Klónozd a repót
-
-2. Lépj be a könyvtárba:
-   ```sh
-   cd KedvencSzamitogepesJatekom
-   ```
-3. Telepítsd a szükséges csomagokat:
-   ```sh
-   npm install
-   ```
-4. Indítsd el a fejlesztői szervert:
-   ```sh
-   npm run dev
-   ```
+## ‼️Tekintsd meg a weboldalt
+- **Lépj fel ide:** https://10c-lakatos.github.io/kedvencszamitogepesjatekom
 
 ## 📌 Technológiák
 - **React** ⚛️
